@@ -1,0 +1,6 @@
+Project technology
+
+Used technologies for the system
+
+Backend: For the backend we used laravel. It's a frame work of php. This system is model based. We pulled data using model in the controller.
+Frontend: For the UI we mainly used html, css, bootstrap, javaScript, sweet alert etc. We have used data tables for display data in the uI.
